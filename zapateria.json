@@ -1,0 +1,32 @@
+[
+    {
+        "folio": 1,
+        "descripcion": "Flats ballerina",
+        "talla": "24",
+        "precio": 1200
+    },
+    {
+        "folio": 2,
+        "descripcion": "Zapatillas planas",
+        "talla": "23",
+        "precio": 1800
+    },
+    {
+        "folio": 3,
+        "descripcion": "Botas vinipiel",
+        "talla": "24",
+        "precio": 1500
+    },
+    {
+        "folio": 4,
+        "descripcion": "Sandalias",
+        "talla": "24",
+        "precio": 1600
+    },
+    {
+        "folio": 5,
+        "descripcion": "Zapato animal print",
+        "talla": "24",
+        "precio": 1900
+    }
+]
